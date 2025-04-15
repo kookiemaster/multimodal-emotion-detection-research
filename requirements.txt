@@ -1,0 +1,30 @@
+# Core dependencies
+numpy>=1.19.5
+pandas>=1.3.0
+matplotlib>=3.4.2
+scikit-learn>=0.24.2
+
+# Deep learning
+torch>=1.9.0
+torchaudio>=0.9.0
+torchvision>=0.10.0
+transformers>=4.8.2
+
+# Audio processing
+librosa>=0.8.1
+soundfile>=0.10.3
+pydub>=0.25.1
+
+# Text processing
+nltk>=3.6.2
+gensim>=4.0.1
+spacy>=3.1.0
+
+# Visualization
+seaborn>=0.11.1
+plotly>=5.1.0
+
+# Utilities
+tqdm>=4.61.2
+ipykernel>=6.0.1
+jupyter>=1.0.0

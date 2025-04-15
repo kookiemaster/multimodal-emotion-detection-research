@@ -1,0 +1,15 @@
+save_dir: models/simplified_run_20250415_160206
+batch_size: 4
+epochs: 3
+learning_rate: 0.001
+mode: text
+audio_metadata: data/audio/ravdess_metadata.csv
+max_samples_per_class: 50
+window_size: 64
+time_step: 32
+text_train_path: data/text/train.csv
+text_test_path: data/text/test.csv
+max_seq_length: 50
+min_word_freq: 1
+embedding_dim: 100
+hidden_dim: 64
