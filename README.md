@@ -1,1 +1,1 @@
-# Multimodal Emotion Detection
+# Multimodal Emotion Detection Research Project

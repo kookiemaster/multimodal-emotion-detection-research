@@ -1,0 +1,15 @@
+# Project Todo List
+- [x] Clarify project requirements
+- [x] Set up GitHub repository
+- [ ] Research state-of-the-art multimodal emotion detection methods (voice + text)
+- [ ] Analyze research findings
+- [ ] Select model to replicate
+- [ ] Set up development environment
+- [ ] Implement selected model
+- [ ] Prepare dataset for testing
+- [ ] Test and validate implementation
+- [ ] Optimize model performance
+- [ ] Document implementation details
+- [ ] Create usage examples
+- [ ] Prepare README and documentation
+- [ ] Commit and push final code
